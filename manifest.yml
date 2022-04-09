@@ -1,0 +1,8 @@
+---
+applications:
+- name: weatherapplication
+  host: weatherapplication
+  buildpack: nodejs_buildpack
+  memory: 128M
+  command: node Server
+ 
