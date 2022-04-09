@@ -1,0 +1,13 @@
+{
+    "name": "weatherapplication",
+    "version": "1.0.0",
+    "main": "Server.js",
+    "author": "virendra",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.3"
+    },
+    "scripts": {
+        "test": "node Server.js"
+    }
+}
